@@ -10,7 +10,7 @@
 ## 🎨 Primera Página / Portada (Diseño y Estructura)
 
 > **Nota de Diseño Visual:**  
-> Se mantiene íntegramente el diseño y maquetación de la portada original del documento: fondo plano de color naranja con patrón geométrico de aspasp/cruces (`X`) alineadas verticalmente en el margen derecho, manteniendo la cabecera e imagotipos oficiales de la Generalitat Valenciana (Conselleria d'Educació, Cultura, Universitats i Ocupació) y del CEEDCV en la parte superior izquierda.
+> Se mantiene íntegramente el diseño original de la portada: fondo plano de color naranja con patrón geométrico de aspasp/cruces (`X`) alineadas verticalmente en la franja derecha, manteniendo la cabecera e imagotipos oficiales de la Generalitat Valenciana (Conselleria d'Educació, Cultura, Universitats i Ocupació) y del CEEDCV en la esquina superior izquierda.
 
 ```
 +-------------------------------------------------------------------------+
@@ -40,15 +40,12 @@
 2. **Objetivos del Módulo**
 3. **Resultados de Aprendizaje (RA) y Unidades Didácticas (UD)**
    * *Tabla 1: Relación entre Unidades Didácticas (UD) y Resultados de Aprendizaje (RA)*
-   * *Tabla 3: Ponderación de Evaluación Teoría / Práctica por UD y RA*
+   * *Tabla 3: Evaluación de Teoría y Práctica por UD (% de Evaluación)*
 4. **Temporalización y Cronograma del Curso 2026-2027**
-   * *Tabla 2: Calendario semanal del curso (Evaluación, Semana, UD, Título, RA)*
+   * *Tabla 2: Cronograma de Evaluación (Evaluación, Semana, UD, Título, RA)*
 5. **Contenidos del Módulo**
 6. **Metodología y Tutorías (TC / TI)**
 7. **Evaluación y Criterios de Calificación**
-   * *Procedimientos e instrumentos de evaluación*
-   * *Evaluación continua, Convocatoria Ordinaria y Extraordinaria*
-   * *Normativa de copias y fraudes*
 
 ---
 
@@ -94,7 +91,7 @@ Los **Resultados de Aprendizaje (RA)** se corresponden de forma directa con la p
 
 ### Tabla 1: Relación entre Unidades Didácticas (UD) y Resultados de Aprendizaje (RA)
 
-| UD | Título de la Unidad Didáctica | RA | Descripción del Resultado de Aprendizaje (RA) |
+| UD | Título | RA | Descripción del Resultado de Aprendizaje |
 | :---: | :--- | :---: | :--- |
 | **UD1** | Tecnologías de las aplicaciones web | **RA1** | Prepara el entorno de desarrollo y los servidores de aplicaciones Web instalando e integrando las funcionalidades necesarias. |
 | **UD2** | Instalación de servidores de aplicaciones web | **RA1** | Prepara el entorno de desarrollo y los servidores de aplicaciones Web instalando e integrando las funcionalidades necesarias. |
@@ -107,33 +104,32 @@ Los **Resultados de Aprendizaje (RA)** se corresponden de forma directa con la p
 
 ---
 
-### Tabla 3: Evaluación de Teoría y Práctica por UD y RA (% de Evaluación)
+### Tabla 3: Evaluación de Teoría y Práctica por UD (% de Evaluación)
 
-Esta tabla desglosa el porcentaje asignado a la parte teórica (Examen) y a la parte práctica (Prácticas Evaluables) dentro de cada unidad didáctica y resultado de aprendizaje, indicando además la ponderación total del RA en la calificación global del módulo según la programación oficial:
+Esta tabla especifica los porcentajes asignados a la teoría (Examen) y a la práctica (Prácticas Evaluables) para cada Unidad Didáctica y Resultado de Aprendizaje:
 
-| UD | Título | RA | Teoría (%) | Práctica (%) | Peso Global en Módulo (%) |
-| :---: | :--- | :---: | :---: | :---: | :---: |
-| **UD1** | Tecnologías de las aplicaciones web | **RA1** | 40% (Examen) | 60% (Prácticas) | 20% *(compartido con UD2)* |
-| **UD2** | Instalación de servidores de aplicaciones web | **RA1** | 40% (Examen) | 60% (Prácticas) | 20% *(compartido con UD1)* |
-| **UD3** | Instalación de gestores de contenidos | **RA2** | Dualizado | Dualizado | 0% *(Dualizado en empresa)* |
-| **UD4** | Administración de gestores de contenidos | **RA3** | 40% (Examen) | 60% (Prácticas) | 20% |
-| **-** | Implantación de aplicaciones de ofimática web | **RA4** | Dualizado | Dualizado | 0% *(Dualizado en empresa)* |
-| **UD5** | Programación de documentos web utilizando lenguajes de script de servidor | **RA5** | 40% (Examen) | 60% (Prácticas) | 25% |
-| **UD6** | Acceso a bases de datos desde lenguajes de script de servidor | **RA6** | 40% (Examen) | 60% (Prácticas) | 20% |
-| **UD7** | Adaptación de gestores de contenidos | **RA7** | 40% (Examen) | 60% (Prácticas) | 15% |
+| UD | Título | RA | Teoria (%) | Practica (%) |
+| :---: | :--- | :---: | :---: | :---: |
+| **UD1** | Tecnologías de las aplicaciones web | **RA1** | 40% | 60% |
+| **UD2** | Instalación de servidores de aplicaciones web | **RA1** | 40% | 60% |
+| **UD3** | Instalación de gestores de contenidos | **RA2** | Dualizado (0% escolar) | Dualizado (0% escolar) |
+| **UD4** | Administración de gestores de contenidos | **RA3** | 40% | 60% |
+| **-** | Implantación de aplicaciones de ofimática web | **RA4** | Dualizado (0% escolar) | Dualizado (0% escolar) |
+| **UD5** | Programación de documentos web utilizando lenguajes de script de servidor | **RA5** | 40% | 60% |
+| **UD6** | Acceso a bases de datos desde lenguajes de script de servidor | **RA6** | 40% | 60% |
+| **UD7** | Adaptación de gestores de contenidos | **RA7** | 40% | 60% |
 
-> **Nota aclaratoria sobre la ponderación:**
-> * La nota de cada Resultado de Aprendizaje evaluado escolarmente se calcula mediante la fórmula:  
->   $$\text{Nota RA} = 0,40 \times \text{Teoría (Examen)} + 0,60 \times \text{Práctica (Prácticas Evaluables)}$$
-> * Los RA2 y RA4 se realizan y evalúan en la formación en empresa (dualización), por lo que no reciben calificación numérica en la etapa escolar pero su superación es obligatoria para aprobar el módulo.
+> **Nota sobre la evaluación:**  
+> La calificación de cada Resultado de Aprendizaje evaluado escolarmente se determina mediante:  
+> $$\text{Nota RA} = 0,40 \times \text{Teoría (Examen)} + 0,60 \times \text{Práctica (Prácticas Evaluables)}$$
 
 ---
 
 ## 4. TEMPORALIZACIÓN Y CRONOGRAMA DEL CURSO 2026-2027
 
-A continuación se presenta el calendario completo ajustado a las fechas oficiales del curso académico **2026-2027**:
+A continuación se presenta la tabla con la temporalización ajustada al calendario oficial del curso **2026-2027**:
 
-### Tabla 2: Cronograma Semanal del Curso 2026-2027
+### Tabla 2: Cronograma de Evaluación del Curso 2026-2027
 
 | Evaluación | Semana | UD | Título | RA |
 | :---: | :---: | :---: | :--- | :---: |
@@ -141,7 +137,7 @@ A continuación se presenta el calendario completo ajustado a las fechas oficial
 | **1ª Eval** | 14/09/2026 | - | Presentación del módulo | - |
 | **1ª Eval** | Semana 1 (21/09/2026) | **UD1** | Tecnologías de las aplicaciones web | **RA1** |
 | **1ª Eval** | Semana 2 (28/09/2026) | **UD1** | Tecnologías de las aplicaciones web | **RA1** |
-| **1ª Eval** | Semana 3 (05/10/2026) | **UD2** | Instalación de servidores de aplicaciones web | **RA1** |
+| **1ª Eval** | Semana 3 (05/10/2026) | **UD2** | Instalación de servidores de aplicaciones web *(Festivo 9 Oct)* | **RA1** |
 | **1ª Eval** | Semana 4 (12/10/2026) | **UD2** | Instalación de servidores de aplicaciones web *(Festivo 12 Oct)* | **RA1** |
 | **1ª Eval** | Semana 5 (19/10/2026) | **UD3** | Instalación de gestores de contenidos | **RA2** |
 | **1ª Eval** | Semana 6 (26/10/2026) | **UD3** | Instalación de gestores de contenidos *(Festivo 1 Nov)* | **RA2** |
@@ -223,7 +219,7 @@ La materia se distribuye por semanas en el Aula Virtual para facilitar el estudi
 
 ### a) Procedimientos e instrumentos previstos
 * **Exámenes (40% de la nota de cada RA):** Pruebas teóricas/prácticas sobre los contenidos.
-* **Prácticas Evaluables (60% de la nota de cada RA):** Entrega obligatoria de proyectos y actividades práticos a través del Aula Virtual.
+* **Prácticas Evaluables (60% de la nota de cada RA):** Entrega obligatoria de proyectos y actividades prácticos a través del Aula Virtual.
 
 ### b) Evaluación Continua
 * Para superar una evaluación o el módulo es necesario obtener una nota mínima de **5,0** en cada uno de los Resultados de Aprendizaje evaluados.
